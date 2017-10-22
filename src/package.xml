@@ -64,7 +64,6 @@
         <members>EmailMessage</members>
         <members>Event</members>
         <members>ExchangeUserMapping</members>
-        <members>ExternalEventMapping</members>
         <members>FeedItem</members>
         <members>ForecastingCategoryMapping</members>
         <members>Idea</members>
